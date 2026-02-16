@@ -1,0 +1,4 @@
+# DeepContext 项目依赖清单
+openai>=1.0.0
+mcp>=1.0.0
+fastmcp>=0.1.0
